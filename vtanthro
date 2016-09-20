@@ -1,0 +1,199 @@
+<html>
+ <head>
+  <title> VT </title>
+  <style>
+   body {
+    background-image: url("http://4.bp.blogspot.com/-amJVWFoH6Us/T55qsWTdCgI/AAAAAAAAAGw/VQLvg0_uTJk/s400/Turner+y+jefe+Ikelenge_2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+   }
+
+   h1 {
+    color: white;
+    text-align: center;
+    font: 5em/4.5em "Malibu", Arial, Helvetica, Geneva, sans-serif;
+    font-size: 85px;
+    position: relative;
+    float: center;
+    z-index: -1;
+   }
+   h2 {
+    color: white;
+    text-align: center;
+    font: 2em/3em "Kabel", Arial, Helvetica, Geneva, sans-serif;
+    font-size: 55px;
+    position: relative;
+   }
+  h3{
+    font-family: "Existence";
+    font-size: 14px;
+    color: white;
+  }
+  article {
+    background-color: rgba(0,0,0,0.8);
+    color: white;
+    padding: 40px;
+    margin: 65px;
+    box-shadow: 20px, 20px, 5px, black;
+    font-family: "Verdana";
+    font-size: 16px;
+  }
+
+  ul.tab {
+    height: 50px;
+    list-style-type: none;
+    padding: 0;
+    width: 100%;
+    top: 50%;
+    
+    position: relative;
+       
+    background-color: yellow;
+    text-align: left;
+    font: bold 1em/2em "Existence", Arial, Helvetica, Geneva, sans-serif;
+    overflow: auto;
+    
+    opacity: 0.65;
+    filter: alpha(opacity = 65);
+   }
+   
+   ul.tab li {
+    float: right;
+    border-right: 1px solid #bbb;
+   }
+   ul.tab a:hover {
+     background-color: rgba(0,0,0,0);
+     color: black;
+     font-weight: bold;
+     font-size: 150%;
+   }
+   ul.tab li a {
+    display: block;
+    color: #555;
+    padding: 8px 16px;
+    margin-left: 52px;
+    margin-right: 52px;
+    text-decoration: none;
+   }
+   ul.tab li a.active {
+       color: black;
+   }
+   .tabcontent {
+       display: none;
+   }
+   footer {
+     background-color: rgba(0, 0, 0, 0.6);
+     margin: 0px;
+     bottom: 0;
+     padding: 0px;
+     float: bottom;
+     position: relative;
+   </footer>
+  </style>
+  
+ </head>
+ <body>
+  <ul class="tab">
+   <li><a href="#" class="tablinks" onclick="openTab(event,'Home')">Home</a></li>
+   <li><a href="#" class="tablinks" onclick="openTab(event, 'About')">About</a></li>
+   <li><a href="#" class="tablinks" onclick="openTab(event,'Symbol')">Symbol</a></li>
+   <li><a href="#" class="tablinks" onclick="openTab(event, 'Liminality & Communitas')">Liminality & Communitas</a></li>
+   <li><a href="#" class="tablinks" onclick="openTab(event, 'FAQ')">FAQ</a></li>
+   <li><a href="#" class="tablinks" onclick="openTab(event, 'Drama')">Drama</a></li>
+  </ul>
+  <h1>VICTOR TURNER</h1>
+  <div id="Home" class="tabcontent">
+  </div>
+  <div id="About" class="tabcontent">
+ 
+   <h2>About Victor Turner</h2>
+   <article>   
+    <p>Quote:      “With my conviction as to the dynamic nature of social relations I saw movement as much as structure, persistence as much as change.”</p>
+    <p>Origin:     Glasgow, Scotland</p>
+    <p>Education:  B.A. in English, University College London, </p>
+                <p>Master in Anthropology at University of Manchester(incomplete) (under Max Gluckman),</p>
+                <p>Ph.D in Anthropology, University of Manchester</p>
+    <p>Profession: Anthropologist</p>
+    <p>Background: Heavily influenced by Gluckman and the Manchester School which emphasiszes on cultural processes. Also influenced by Radcliffe Brown</p>
+                <p>(Social Functionalism) and the study of Van Gennep (Rites of Passage)</p>
+    <p>Areas of Specialty: Rituals, Rites of Passage, Symbols, Liminality and Dramas</p>
+
+    <p>Experience:</p>
+
+                <p>- Senior Fellow and Senior Lecturer, Department of Anthropology, University of Manchester (1958 - 1961)</p>
+                <p>- Fellow of the Center for Advanced Behavioral Sciences, Stanford University (1961- 1962)</p>
+                <p>- Professor of Anthropology and Chairman of the Committee on African Studies at Cornell University (1964–1968)</p>
+                <p>- Professor of Anthropology and Social Thought, University of Chicago (1968-1978)</p>
+                <p>- William R. Kenan Professor of Anthropology and Religion at the University of Virginia</p>
+            
+    <pImportant Work:
+                - Ndembu, Zambia Schism and Continuity in an African Society (1957)
+ 
+    Personal Life: 
+
+                - Married Edith Davis in 1943
+                - Resettled to America in 1964
+                - Converted to Catholicism in 1958 </p>
+  </article>
+  </div>
+  <div id="Symbol" class="tabcontent">
+   <h2>Symbols</h2>
+   <article>
+     <p>Being the condensed expressions of meanings, the interpretation of symbols is extremely relative to the social context as of how, where, when it is presented. Social processes could also shape and reshape the meanings related to the symbols. These properties make symbols circumstantial entities instead of timeless entities. Moreover, symbols has the ability to encompass a wide variety of meanings and bring, making them multivocal. In essence, symbol are the abstract representations of cultural life and social processes. As Turner has argued, the dynamic properties of symbols raise questions on the functional theories, where society is portrayed as a stable, systemic entity.</p>
+   </article>
+  </div>
+  <div id="Liminality & Communitas" class="tabcontent">
+   <h2>Liminality & Communitas</h2>
+   <article>
+     <p>Borrowed from Van Gennep, the concept of liminality represents the transitional phase between two societal states. Because different societies share the characterizations of being at neither states during the liminal phase, Turner suggests that liminal periods are timeless, meaning that they are unaffected by time progressions. Furthermore, their interstructural  existence means that such liminal entities could not be described using social structures, systems or hierarchies, therefore formulating the idea that the social cohesion or the human interactions within a society could be described by two sets of oppositional and contradictory models, with one model being that of a functionalist’s, where the society is highly differentiated and structurally developed, with the presence of stability, and the other being the Communitas, which describes the liminal phase, where solidarity is produced through unstructured, elementary and non-hierarchical social bonds. Being oppositional to structure, Communitas characterizes the sacredness and equality expressed through the liminal phase and often emphasizes the removal or masking of social rankings. The abstraction and ambiguity of liminal states are often communicated through symbols. For example, as the emblem of Pilgrimage, a shrine marks the social process of the ritual and exhibits the reduction of ranking among the social relations.</p>
+   </article>
+  </div>
+  <div id="FAQ" class ="tabcontent">
+   <h2>FAQ</h2>
+   <article>
+     <p>Q: Are you a functionalist?</p>
+
+<p>A: 	That is a great question. I used to be a functionalist back in the day and I used to like 	 
+	Radcliffe Brown a lot. But for my Ph.D dissertation I went to Ndembu Tribe in Zambia
+	and there I found rituals and phenomenons such as social drama that are hard to explain 
+	under Functionalism because they do not appear as organic or systemic. I think the 
+	social processes are not describable under the presumption that it is the society is a 
+	stable, static and self-balancing entity. Rather, changes causes relatively dramatic
+	disruptions that are not in accordance with the Functionalist framework.</p>
+    </article>
+  </div>
+  <div id="Drama" class = "tabcontent">
+   <h2>Social Drama</h2>
+   <article>
+     <p>Social Drama is defined by Turner as a unit of social change that arises as disagreements happen between individuals and social norms and expectations. Social Drama leads to minute changes and perturbations in the society and could potentially accumulate and escalate into major conflicts. Turner argued that there is a universal process underlying all social dramas and he extrapolated the 4 stages of social drama: breach, crisis, redress, and reintegration or schism. The transition of China from strict communism to practicing capitalism is an example of social change, as people were originally extremely dissatisfied with the living standards and began creating ways to trade and practice commerce. The government failed to curb such behaviors and finally the social process escalated to such a point that government officials began to allow trade and growth of the private sector boomed.</p>
+    </article>
+  </div>
+
+<footer>
+  <h3>Author: Grace Gu, 2016</h3>
+  <h3>Reference: Moore, Jerry D. Visions of Culture: An Introduction to Anthropological Theories and Theorists. Walnut Creek, CA: AltaMira, 1997. Print.</h3>
+</footer>
+  <script>
+   function openTab(evt, tabName) {
+       // Declare all variables
+       var i, tabcontent, tablinks;
+       
+       // Get all elements with class="tabcontent" and hide them
+       tabcontent = document.getElementsByClassName("tabcontent");
+       for (i = 0; i < tabcontent.length; i++) {
+           tabcontent[i].style.display = "none";
+       }
+   
+       // Get all elements with class="tablinks" and remove the class "active"
+       tablinks = document.getElementsByClassName("tablinks");
+       for (i = 0; i < tablinks.length; i++) {
+           tablinks[i].className = tablinks[i].className.replace(" active", "");
+       }
+       
+       // Show the current tab, and add an "active" class to the link that opened the tab
+       document.getElementById(tabName).style.display = "block";
+       evt.currentTarget.className += " active";
+   }
+  </script>
+ </body>
+</html>
